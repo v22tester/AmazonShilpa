@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="12.09">
+    <testcase classname="validate shoppig cart" name="check shopping cart is empty" time="11.791">
+        <system-out><![CDATA[Given user should be on amazon home page....................................passed
+When user click on shopping cart............................................passed
+Then cart should be empty...................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
